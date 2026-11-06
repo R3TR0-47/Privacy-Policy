@@ -1,0 +1,21 @@
+# Privacy Policy — Oskar's eBay Market Report
+
+_Last updated: 6 November 2026_
+
+This is a personal tool used by a single eBay seller (the developer) to review the prices of their own active listings. It is not offered to the public and no other eBay users sign in to it.
+
+## What data it accesses
+- The developer's own active eBay listings (title, price, postage, quantity, listing date, watch and view counts).
+- Publicly available eBay listing information (titles, prices, postage and links) used to compare market prices.
+
+## What it does not do
+- It does not access, collect or store personal information about buyers or other eBay users (no names, usernames, addresses, emails or phone numbers).
+- It does not change, create or end listings. It is read-only.
+- It does not sell, share or transfer any data to third parties.
+
+## Storage and security
+- Reports are saved only on the developer's own computer.
+- API credentials and access tokens are stored locally in a private configuration file, are never published, and can be revoked at any time from the developer's eBay account settings.
+
+## Contact
+For any questions about this policy, contact: your-email@example.com
